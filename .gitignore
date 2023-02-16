@@ -30,5 +30,6 @@
 
 Debug/
 Release/
+.vscode/
 build
 lpc21isp
