@@ -33,3 +33,4 @@ Release/
 .vscode/
 build
 lpc21isp
+src/version.c
